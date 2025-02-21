@@ -1,0 +1,26 @@
+/* Custom styles to complement Tailwind CSS */
+
+/* Smooth scrolling and base styles */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #0a5cae;
+}
+
+/* Custom styles for the image */
+#img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+}
+
+/* Custom styles for the paragraph */
+#p-tag {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  color: #334155;
+  margin-bottom: 1rem;
+}
